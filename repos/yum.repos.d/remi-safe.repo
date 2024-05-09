@@ -1,0 +1,6 @@
+[remi-safe]
+name=Safe Remi's RPM repository for Enterprise Linux 7 - 
+mirrorlist=http://cdn.remirepo.net/enterprise/7/safe/mirror
+enabled=1
+gpgcheck=1
+gpgkey=https://rpms.remirepo.net/RPM-GPG-KEY-remi
